@@ -25,7 +25,7 @@
 
 - [NOTE（本体アーカイブ・企画の全体像）](https://github.com/mushoku-note-log/NOTE)
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 - [Patreon](https://github.com/mushoku-note-log/SNS-Patreon)
 - [Facebook](https://github.com/mushoku-note-log/SNS-Facebook)
 - [Medium](https://github.com/mushoku-note-log/SNS-Medium)
